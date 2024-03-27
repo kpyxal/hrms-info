@@ -4,25 +4,21 @@
 
 ## Key Features
 
-- Recruitment and Onboarding
-- Employee Database
+- Employee Management
 - Leave Management
-- Policy Information
-- News & Events Section
+- Recruitment and Onboarding
+- Policy Manager
+- Holidays
 
 ## Benefits
 
-- Efficiency and Accuracy
-- Compliance Assurance
+- Centralized Data Management
+- Enhanced Employee Self-Service
 - Cost Savings
-- Employee Engagement
-
-## Advantages
-
-- Adaptive Intelligence
-- Integration Harmony
-- Mobile Accessibility
-- Customization Capabilities
+- Employee Engagement and Satisfaction
+- Integration with Other Systems
+- Scalability
+- Integration with Other Systems
 
 ![HRMS-System](http://kpyxal.pyxstuffs.com/wp-content/themes/kpyxal/img/img1/Dashboard.png)
 
