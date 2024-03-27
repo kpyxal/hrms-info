@@ -20,6 +20,6 @@
 - Scalability
 - Integration with Other Systems
 
-![HRMS-System](http://kpyxal.pyxstuffs.com/wp-content/themes/kpyxal/img/img1/Dashboard.png)
+![HRMS-System](http://pyxstuffs.com/img/Dashboard.png)
 
 ### [View More Details](http://pyxstuffs.com/pyx_hrms.html)
